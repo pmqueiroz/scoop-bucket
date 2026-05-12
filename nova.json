@@ -6,7 +6,7 @@
   "architecture": {
     "64bit": {
       "url": "https://github.com/pmqueiroz/nova/releases/download/v0.18.3/nova_0.18.3_x64_portable.zip",
-      "hash": "9c2b036e3cad7559231220d4a964fd25015365cb068f6ab2916730bac8717e4c"
+      "hash": "309eb26508eef25de7a8e7aa463b4bf26a66b009912b505d86bee1fe339e71e1"
     }
   },
   "bin": "nova.exe",
