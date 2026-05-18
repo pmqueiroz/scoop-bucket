@@ -1,12 +1,12 @@
 {
-  "version": "0.23.1",
+  "version": "0.23.2",
   "description": "A GPU-accelerated terminal emulator",
   "homepage": "https://github.com/pmqueiroz/nova",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/pmqueiroz/nova/releases/download/v0.23.1/nova_0.23.1_x64_portable.zip",
-      "hash": "9c90d4ced0860ae5dc08b40d8d946f87bc5b07a27e5ccd364c4627467627b9ed"
+      "url": "https://github.com/pmqueiroz/nova/releases/download/v0.23.2/nova_0.23.2_x64_portable.zip",
+      "hash": "df59cf6440c55ac943743c1c9f99824eb62105ff71d44d887745741155da61eb"
     }
   },
   "bin": "nova.exe",
